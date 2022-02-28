@@ -219,4 +219,23 @@ color: #000000;
 text-align:left;
 
 }
+.footer{
+width: 100wwx;
+height: 30px;
+background: #071146;
 
+}
+.footer p{
+width: 412px;
+height: 20px;
+left: 20px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
